@@ -1,0 +1,15 @@
+# ============================================================================
+# Noor MCP Code Assistant - Dependencies
+# ============================================================================
+
+# MCP SDK for Model Context Protocol
+mcp>=1.0.0
+
+# Async HTTP client for API calls
+httpx>=0.27.0
+
+# Environment variable management
+python-dotenv>=1.0.0
+
+# Optional: For future YAML config support
+# pyyaml>=6.0.1
